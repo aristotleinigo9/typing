@@ -377,7 +377,7 @@
                 },
                 "731": {
                     aV: 8,
-                    w: "\n  <section class=\"hero \">\n  <div class=\"hero-body\">\n    <div class=\"container\">\n      <h1 class=\"title has-text-grey-dark\" style=\"padding-bottom:10px\">\n       <a href=\"http://typing.atwebpages.com\">typing.atwebpages.com</a>\n      </h1>\n\n      <h3 class=\"subtitle is-5 has-text-grey-dark\">\n        Test and practice your typing/keyboarding skills\n      </h3>\n    </div>\n  </div>\n</section>\n\n",
+                    w: "\n  <section class=\"hero \">\n  <div class=\"hero-body\">\n    <div class=\"container\">\n      <h1 class=\"title has-text-grey-dark\" style=\"padding-bottom:10px\">\n       <a href=\"https://typingitc.netlify.app/\">typingitc.netlify.app</a>\n      </h1>\n\n      <h3 class=\"subtitle is-5 has-text-grey-dark\">\n        Test and practice your typing/keyboarding skills\n      </h3>\n    </div>\n  </div>\n</section>\n\n",
                     x: "visible",
                     a: 8,
                     Z: "break-word",
